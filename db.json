@@ -6,6 +6,13 @@
       "password": "12345",
       "userName": "Raja",
       "token": "Raja"
+    },
+    {
+      "id":2,
+      "email": "coreyschafer@gmail.com",
+      "password": "12345",
+      "userName": "coreyschafer",
+      "token": "coreyschafer"
     }
   ],
   "mock": [
@@ -21,8 +28,8 @@
     },
     {
       "id" : 2,
-      "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
+      "username" : "Raja",
+      "title" : "Brownies",
       "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category" : "Starter",
@@ -32,7 +39,7 @@
     {
       "id" : 3,
       "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
+      "title" : "Hazelnut",
       "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category" : "Main Course",
@@ -41,8 +48,8 @@
     },
     {
       "id" : 4,
-      "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
+      "username" : "Raja",
+      "title" : "Burger",
       "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category" : "Dessert",
@@ -51,8 +58,8 @@
     },
     {
       "id" : 5,
-      "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
+      "username" : "Raja",
+      "title" : "Pizza",
       "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category" : "Main Course",
@@ -61,8 +68,8 @@
     },
     {
       "id" : 6,
-      "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
+      "username" : "Raja",
+      "title" : "Hotdog",
       "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category" : "Dessert",
@@ -72,7 +79,7 @@
     {
       "id" : 7,
       "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
+      "title" : "Pasta",
       "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category" : "Main Course",
@@ -82,7 +89,7 @@
     {
       "id" : 8,
       "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
+      "title" : "Choco",
       "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category" : "Starter",
@@ -91,8 +98,8 @@
     },
     {
       "id" : 9,
-      "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
+      "username" : "Raja",
+      "title" : "Noodles",
       "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category" : "Starter",
