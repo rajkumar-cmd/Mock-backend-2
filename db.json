@@ -1,5 +1,5 @@
 {
-  "profile": [
+  "users": [
     {
       "id":1,
       "email": "raja@gmail.com",
@@ -15,7 +15,7 @@
       "token": "coreyschafer"
     }
   ],
-  "mock": [
+  "recipes": [
     {
       "id" : 1,
       "username" : "coreyschafer",
