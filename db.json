@@ -30,6 +30,16 @@
       "id":1,
       "Username": "ADMIN",
       "Score": 40
+    },
+    {
+      "id":2,
+      "Username": "Raja",
+      "Score": 30
+    },
+    {
+      "id":3,
+      "Username": "Ram",
+      "Score": 60
     }
   ],
   "recipes": [
